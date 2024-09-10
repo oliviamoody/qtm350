@@ -170,7 +170,7 @@ Suggested references:
 
 ### Wednesday, September 11:
 
-- Lecture 04: Command line tools, text files, scripting, and basics of Vim.
+- Lecture 04: [More command line tools, text files and scripting](https://raw.githack.com/danilofreire/qtm350/main/lectures/lecture-04/04-more-command-line.html).
 - **Assignment 01 due (5%).**
 - **Assignment 02:** Problem Set 02.
 
