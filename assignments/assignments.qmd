@@ -10,7 +10,7 @@ We encourage you to complete assignments in Jupyter Notebooks and submit them in
 
 You will find the assignments in `.ipynb` format in the `assignments` folder on [the course repository](https://github.com/danilofreire/qtm350/tree/main/assignments). For your convenience, rendered versions are available on the course website; links are provided below.
 
-When submitting, please name your files as follows: `assignment-01-your-name.ipynb`. For instance: `assignment-01-john-doe.ipynb`.
+When submitting, please name your files as follows: `assignment-01-your-name.pdf`. For instance: `assignment-01-john-doe.pdf`.
 
 ## Assignment Timeline
 
